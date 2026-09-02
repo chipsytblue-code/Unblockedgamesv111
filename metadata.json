@@ -1,0 +1,6 @@
+{
+  "name": "Unblocked Games Hub",
+  "description": "A fast, modern unblocked games portal featuring playable web games in responsive iframes with search, categories, favorites, and tab cloaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
